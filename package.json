@@ -1,0 +1,16 @@
+{
+	"name": "hotel-markup",
+	"version": "0.0.1",
+	"main": "gulpfile.js",
+	"keywords": [],
+	"description": "",
+	"author": "Ivan Kuznetsov",
+	"license": "ISC",
+	"dependencies": {},
+	"devDependencies": {
+		"del": "^3.0.0",
+		"gulp": "^3.9.1",
+		"gulp-less": "^3.3.2",
+		"gulp-load-plugins": "^1.5.0"
+	}
+}
